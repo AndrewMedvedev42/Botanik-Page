@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Botanik-Page/static/css/main.561128ae.chunk.css",
+    "main.js": "/Botanik-Page/static/js/main.afff1f77.chunk.js",
+    "main.js.map": "/Botanik-Page/static/js/main.afff1f77.chunk.js.map",
+    "runtime-main.js": "/Botanik-Page/static/js/runtime-main.88ba4f5f.js",
+    "runtime-main.js.map": "/Botanik-Page/static/js/runtime-main.88ba4f5f.js.map",
+    "static/js/2.db39837d.chunk.js": "/Botanik-Page/static/js/2.db39837d.chunk.js",
+    "static/js/2.db39837d.chunk.js.map": "/Botanik-Page/static/js/2.db39837d.chunk.js.map",
+    "index.html": "/Botanik-Page/index.html",
+    "static/css/main.561128ae.chunk.css.map": "/Botanik-Page/static/css/main.561128ae.chunk.css.map",
+    "static/js/2.db39837d.chunk.js.LICENSE.txt": "/Botanik-Page/static/js/2.db39837d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88ba4f5f.js",
+    "static/js/2.db39837d.chunk.js",
+    "static/css/main.561128ae.chunk.css",
+    "static/js/main.afff1f77.chunk.js"
+  ]
+}
